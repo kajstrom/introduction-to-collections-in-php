@@ -1,6 +1,5 @@
 <?php
-
-//Tiedot
+require __DIR__ . "/../vendor/autoload.php";
 $customers = [
     [
         "name" => "Kaj",
