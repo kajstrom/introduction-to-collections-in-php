@@ -1,0 +1,8 @@
+{
+    "name": "kajstrom/collection-esitys",
+    "description": "...",
+    "type": "project",
+    "require": {
+        "tightenco/collect": "^5.3"
+    }
+}
